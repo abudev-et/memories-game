@@ -1,0 +1,23 @@
+#grid {
+  width: 400px;
+  height: 100px;
+}
+#grid-first{
+  width: 400px;
+}
+
+img{
+  width: 20%;
+  padding: 1px;
+}
+.heart-non-dis{
+  display: none;
+}
+#re-start{
+  padding: 2px 10px;
+  margin-left: 13em;
+  cursor: pointer;
+}
+#flexer{
+  display: flex;
+}

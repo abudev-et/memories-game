@@ -9,6 +9,9 @@ This project has been a great learning experience for me in JavaScript, especial
 
 I did not focus much on CSS in this project, as my main goal was to strengthen my JavaScript skills. This project has helped me a lot in improving my understanding of JavaScript and game development fundamentals.
 
+## 🎯 Game Concept
+The objective of the game is to test and enhance the player's memory skills. Players are briefly shown an image and must recall and match the same image from a set of options. This challenges their short-term memory and pattern recognition abilities, making it both an engaging and educational experience.
+
 ## 🚀 Technologies Used
 - 🖥️ JavaScript (ES6+)
 - 🎨 HTML5 Canvas
@@ -16,7 +19,7 @@ I did not focus much on CSS in this project, as my main goal was to strengthen m
 ## 🛠️ How to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/abudev-et/memories-game.git
    ```
 2. Open `index.html` in a browser to play the game.
 

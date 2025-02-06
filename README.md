@@ -1,4 +1,4 @@
-# Memories-game 2D Game 🎮
+# Memories 2D Game 🎮
 
 This project has been a great learning experience for me in JavaScript, especially in working with class-based components and 2D game development. Through this game, I have gained a deeper understanding of JavaScript concepts such as:
 
